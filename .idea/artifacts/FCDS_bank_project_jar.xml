@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FCDS bank project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FCDS_bank_project_jar</output-path>
+    <root id="archive" name="FCDS bank project.jar">
+      <element id="module-output" name="FCDS bank project" />
+    </root>
+  </artifact>
+</component>
